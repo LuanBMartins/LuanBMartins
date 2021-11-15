@@ -1,5 +1,5 @@
 
-<h1 align="center">Hello! I'm Luiz Martins</h1>
+<h1 align="center">Hello! I'm Luan B. Martins</h1>
 <p align="center">
   I am from Brazil and currently a student of Computer Science at Universidade Federal de Itajubá.
  <p/>
