@@ -1,7 +1,10 @@
 
 <h1 align="center">Hello! I'm Luan B. Martins</h1>
 <p align="center">
-  I am from Brazil and currently a student of Computer Science at Universidade Federal de Itajubá.
+  I am from Brazil and currently a student of Information Systems at Universidade Federal de Itajubá.
+ <p/>
+ <p align="center">
+  I work with javascript/nodejs and serverless/lambda developing apis and virtual assistants
  <p/>
 <p align="center">
   <a href="mailto:carlosbm.luan@gmail.com?
